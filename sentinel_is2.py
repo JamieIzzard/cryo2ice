@@ -71,7 +71,7 @@ date_1 = date(2020,5,1)
 date_2 = date(2020,7,6)
 platform = 'Sentinel-2'
 max_cloud = 30
-api = SentinelAPI('jamieizzard', 'honfleur123', 'https://scihub.copernicus.eu/dhus/')
+api = SentinelAPI('jamieizzard', '*******', 'https://scihub.copernicus.eu/dhus/')
 
 co_track_list = []
 other_tracks = []
